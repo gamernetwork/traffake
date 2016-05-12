@@ -1,6 +1,6 @@
 # Traffake
 
-A (https://github.com/locustio/locust)[Locust] based traffic faker for testing analyses
+A [Locust](https://github.com/locustio/locust) based traffic faker for testing analyses
 
 Generates loads of fake URLs and a hits them in a non-uniform distribution, designed
 to vaguely approximate the visitation patterns of real traffic on large editorial sites.
