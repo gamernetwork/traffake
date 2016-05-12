@@ -17,6 +17,6 @@ env/bin/pip install -r requirements.txt
 env/bin/locust -f traffake.py -P <local-port> --host=http://<host-to-test>:<port-to-test>
 ```
 
-Visit http://localhost:<localport>/ and get testing.
+Visit ```http://localhost:<localport>/``` and get testing.
 
 
